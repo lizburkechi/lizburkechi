@@ -14,6 +14,8 @@
 - 📫 How to reach me **liz.burke.chi@gmail.com**
 
 - ⚡ Fun fact **I am a gamer, gearhead and runner with a love for the outdoors!**
+<br/>
+  <a href="https://github.com/lizburkechi/github-readme-stats"><img alt="Liz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizburkechi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🚀 Technologies:
 
@@ -43,7 +45,6 @@
 
   <br/>
     <a href="https://github.com/lizburkechi/github-readme-stats"><img alt="Liz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lizburkechi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/lizburkechi/github-readme-stats"><img alt="Liz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizburkechi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br/>
 
