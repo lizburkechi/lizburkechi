@@ -2,8 +2,6 @@
 
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Liz </h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Chicago, IL.</h3>
-
 
 ## About Me
 
