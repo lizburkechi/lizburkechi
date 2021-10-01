@@ -7,9 +7,11 @@
 
 ## About Me
 
-- 🔭 I’m currently developing **[Versus Trivia](https://github.com/lizburkechi/versus_trivia)**
+- 🎓 Flatiron graduate from Chicago, IL pursuing a career in front-end development.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔭 I’m currently developing a teams scoreboard component for my app **[Versus Trivia](https://github.com/lizburkechi/versus_trivia)**
+
+- 🌱 I’m also learning **Data Structures and Algorithms.**
 
 - 📫 How to reach me **liz.burke.chi@gmail.com**
 
