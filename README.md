@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently developing a teams scoreboard component for my app **[Versus Trivia](https://github.com/lizburkechi/versus_trivia)**
 
-- 🌱 I’m also learning **Data Structures and Algorithms.**
+- 🌱 I’m also learning **Data Structures and Algorithms** and **React Native** in my free time. 
 
 - 📫 How to reach me **liz.burke.chi@gmail.com**
 
