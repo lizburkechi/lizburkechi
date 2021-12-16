@@ -5,11 +5,9 @@
 
 ## About Me
 
-- 🎓 Flatiron graduate from Chicago, IL pursuing a career in front-end development.
+- 🎓 Flatiron graduate from Chicago, IL.
 
 - 🔭 I’m currently developing a teams scoreboard component for my app **[Versus Trivia](https://github.com/lizburkechi/versus_trivia)**
-
-- 🌱 I’m also learning **Data Structures and Algorithms** in my free time. 
 
 - 📫 How to reach me **liz.burke.chi@gmail.com**
 
